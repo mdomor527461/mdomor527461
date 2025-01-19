@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏠 I'm currently living at Dhaka,Bangladesh<br>💻 I'm currently working as a Full Stack Web Developer.<br>🎯 I'm currently working on my golpokuri projects.<br>🚀I want to collaborate new web applications<br>🎮 I love to play cricket and watching movies.
+🏠 I'm currently living at Bogra,Bangladesh<br>💻 I'm currently working as a Full Stack Web Developer at 2ndsource.<br>🎯 I'm currently working on my golpokuri projects.<br>🚀I want to collaborate new web applications<br>🎮 I love to play cricket and watching movies.
 
 
 ## 🌐 Socials:
